@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*CS 2019*/
+
 namespace SingletonDemo
 {
 	public sealed class Singleton
